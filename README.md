@@ -12,5 +12,5 @@
 ## About me :D
 ---
 
-## Languages
+## Languages i've worked with
 ---
