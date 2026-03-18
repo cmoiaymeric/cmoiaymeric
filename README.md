@@ -19,7 +19,7 @@
   
 ---
 
-## Things i've worked with
+## Things I've worked with
 <div align="center"><b>Languages</b></div>
   <div align="center">
     <a href="https://skillicons.dev">
